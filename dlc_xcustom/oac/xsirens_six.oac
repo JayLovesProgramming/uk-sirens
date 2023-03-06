@@ -1,0 +1,216 @@
+  Version 1 11
+{
+    IsStream False
+    DescriptorsInOrder False
+    Entries
+  { 
+   WaveTrack xsiren_beta_hilo
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_beta_hilo.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_beta_wail
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_beta_wail.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_e60_longtone
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_e60_longtone.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_euro_phaser
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_euro_phaser.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_euro1_yelp
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_euro1_yelp.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_hazard_phaser
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_hazard_phaser.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_lfbbmw_hilow
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_lfbbmw_hilow.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_lfbbmw_shorttone
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_lfbbmw_shorttone.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_lfbmk23_hilow
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_lfbmk23_hilow.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_red_twotone
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_red_twotone.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_red_yelp
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_red_yelp.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_rsgmsc_phaser
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_rsgmsc_phaser.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+   WaveTrack xsiren_stirling_twotone
+    {
+            Compression PCM
+            Headroom -200
+            LoopPoint 0
+            LoopBegin 0
+            LoopEnd 0
+            PlayBegin 0
+            PlayEnd 0
+            Wave xsirens_six\xsiren_stirling_twotone.wav
+            AnimClip null
+            Events null
+            UNKNOWN_23097A2B null
+            UNKNOWN_E787895A null
+            UNKNOWN_252C20D9 null
+    }
+  }
+}
